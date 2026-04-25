@@ -77,4 +77,4 @@ Run a command on W
 
 ## Personal Notes
 
-<!-- Personal fork: I primarily use this on macOS with Node 20. Haven't tested the Windows debug scripts yet. -->
+<!-- Personal fork — studying this project to understand how CLI tools handle port forwarding and tunnel lifecycle management. Not intended for production use. -->
