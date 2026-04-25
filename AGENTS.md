@@ -77,4 +77,6 @@ Run a command on W
 
 ## Personal Notes
 
-<!-- Personal fork — studying this project to understand how CLI tools handle port forwarding and tunnel lifecycle management. Not intended for production use. -->
+<!-- Personal fork notes — not relevant to upstream -->
+
+This is my personal fork for learning purposes. I primarily work on macOS, so the Windows debugging section is not relevant to my workflow. I may skip maintaining the docs site (`apps/docs`) since I only care about the CLI package itself.
